@@ -1,0 +1,16 @@
+index.html
+<html>
+<body>
+ <p>
+ <script>
+     var variavel = 1; /* inteiro*/
+     document.write ( typeof variavel+ ''<br>'');
+     var variavel = ''1''; /* string*/
+     document.write (typeof variavel + ''<br>'');
+     var variavel = true; /*booleano*/
+     document.write (typeof variavel + ''<br>'');
+ </script>
+ </p>
+</body>
+</html>
+     
